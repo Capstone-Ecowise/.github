@@ -11,7 +11,7 @@ Ecowise is a comprehensive waste management education platform that leverages te
 By integrating machine learning, cloud computing, and mobile technology, Ecowise educates users on proper waste sorting, recycling, and disposal techniques, aiming to build a more sustainable future.
 <br />
 
-## Team Behind Tanamify
+## Team Behind Ecowise
 
 📱 Mobile Development Team <br />
 
